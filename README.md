@@ -1,2 +1,1 @@
-# resize_partisi
-absolutely work
+Work
